@@ -1,0 +1,45 @@
+Welcome to the ENEE Airlines Flight Database
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter departure and arrival airport codes:  Enter a day of the week (1-7, or 0 for all days):  
+1-stop flights from Boston, MA (BOS) to Cancun, Mexico (CUN):
+
+Flight 1003 (SMTWThFSa)
+    08:00a.m. Boston, MA (BOS)
+    09:15a.m. New York, NY (JFK)
+Flight 753 (SMTWThFSa)
+    10:30a.m. New York, NY (JFK)
+    01:45p.m. Cancun, Mexico (CUN)
+
+Flight 1003 (SMTWThFSa)
+    08:00a.m. Boston, MA (BOS)
+    09:15a.m. New York, NY (JFK)
+Flight 754 (SWThFSa)
+    10:30a.m. New York, NY (JFK)
+    01:45p.m. Cancun, Mexico (CUN)
+
+Flight 1004 (SMTWThFSa)
+    08:15a.m. Boston, MA (BOS)
+    09:29a.m. New York, NY (JFK)
+Flight 753 (SMTWThFSa)
+    10:30a.m. New York, NY (JFK)
+    01:45p.m. Cancun, Mexico (CUN)
+
+Flight 1004 (SMTWThFSa)
+    08:15a.m. Boston, MA (BOS)
+    09:29a.m. New York, NY (JFK)
+Flight 754 (SWThFSa)
+    10:30a.m. New York, NY (JFK)
+    01:45p.m. Cancun, Mexico (CUN)
+
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  

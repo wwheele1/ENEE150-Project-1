@@ -1,0 +1,53 @@
+BQN  Aguadilla, Puerto Rico
+AUA  Aruba
+AUS  Austin, TX
+BDA  Bermuda
+BOS  Boston, MA
+BUF  Buffalo, NY
+BUR  Burbank, CA
+BTV  Burlington, VT
+CUN  Cancun, Mexico
+CLT  Charlotte, NC
+ORD  Chicago, IL
+DEN  Denver, CO
+FLL  Fort Lauderdale, FL
+RSW  Fort Myers, FL
+HOU  Houston, TX
+JAX  Jacksonville, FL
+LGA  La Guardia, NY
+LAS  Las Vegas, NV
+LGB  Long Beach, CA
+NAS  Nassau, Bahamas
+EWR  Newark, NJ
+SWF  Newburgh, NY
+MSY  New Orleans, LA
+JFK  New York, NY
+OAK  Oakland, CA
+ONT  Ontario, CA
+MCO  Orlando, FL
+PHX  Phoenix, AZ
+PIT  Pittsburgh, PA
+PSE  Ponce, Puerto Rico
+PWM  Portland, ME
+PDX  Portland, OR
+POP  Puerto Plata, Dominican Republic
+RDU  Raleigh/Durham, NC
+RIC  Richmond, VA
+ROC  Rochester, NY
+SMF  Sacramento, CA
+SXM  Saint Maarten, Netherlands Antilles
+SLC  Salt Lake City, UT
+SAN  San Diego, CA
+SFO  San Francisco, CA
+SJC  San Jose, CA
+SJU  San Juan, Puerto Rico
+STI  Santiago, Dominican Republic
+SDQ  Santo Domingo, Dominican Republic
+SRQ  Sarasota, FL
+SEA  Seattle, WA
+SYR  Syracuse, NY
+TPA  Tampa, FL
+TUS  Tucson, AZ
+IAD  Washington, DC
+HPN  Westchester County, NY
+PBI  West Palm Beach, FL

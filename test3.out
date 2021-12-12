@@ -1,0 +1,26 @@
+Welcome to the ENEE Airlines Flight Database
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter a flight number:  
+Flight 102 (SWThFSa)
+    07:05a.m. Orlando, FL (MCO)
+    09:31a.m. New York, NY (JFK)
+
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter a flight number:  Flight 10000 doesn't exist
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  

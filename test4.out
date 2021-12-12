@@ -1,0 +1,34 @@
+Welcome to the ENEE Airlines Flight Database
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter airport code:  Airport WWW doesn't exist
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter airport code:  
+Syracuse, NY (SYR)
+
+Departures to:
+   Fort Lauderdale, FL (FLL)
+   New York, NY (JFK)
+   Orlando, FL (MCO)
+
+Arrivals from:
+   Fort Lauderdale, FL (FLL)
+   New York, NY (JFK)
+   Orlando, FL (MCO)
+
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  

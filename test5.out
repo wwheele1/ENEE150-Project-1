@@ -1,0 +1,60 @@
+Welcome to the ENEE Airlines Flight Database
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter departure and arrival airport codes:  Either airport QQQ or JFK doesn't exist
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter departure and arrival airport codes:  Enter a day of the week (1-7, or 0 for all days):  Route LGB to CUN has no non-stop flights on the specified days
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter departure and arrival airport codes:  Enter a day of the week (1-7, or 0 for all days):  
+Non-stop flights from Boston, MA (BOS) to Long Beach, CA (LGB):
+
+Flight 481 (SMTWThSa)
+    08:00a.m. Boston, MA (BOS)
+    11:23a.m. Long Beach, CA (LGB)
+
+Flight 490 (SMTWThFSa)
+    05:00p.m. Boston, MA (BOS)
+    08:30p.m. Long Beach, CA (LGB)
+
+Flight 491 (SMTWThFSa)
+    05:05p.m. Boston, MA (BOS)
+    08:35p.m. Long Beach, CA (LGB)
+
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  Enter departure and arrival airport codes:  Enter a day of the week (1-7, or 0 for all days):  
+Non-stop flights from Boston, MA (BOS) to Long Beach, CA (LGB):
+
+Flight 490 (SMTWThFSa)
+    05:00p.m. Boston, MA (BOS)
+    08:30p.m. Long Beach, CA (LGB)
+
+Flight 491 (SMTWThFSa)
+    05:05p.m. Boston, MA (BOS)
+    08:35p.m. Long Beach, CA (LGB)
+
+Choose an option:
+1.  Print a flight
+2.  Print an airport
+3.  Find non-stop flights
+4.  Find 1-stop flights
+5.  Exit
+Enter option:  
